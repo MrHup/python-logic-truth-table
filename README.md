@@ -5,6 +5,7 @@ The whole thing was made in Jupyter using Python. It checks for some basic synta
 
 Furthermore, the program also computes the disjunctive normal form (DNF) of a given expression.
 One exercise this program was used to solve is listed below:
+```
 
 F,G,H are propositional formulae. Show that the following hold:
 • Reduction Laws:
@@ -41,3 +42,4 @@ F,G,H are propositional formulae. Show that the following hold:
 • Absorbtion Laws:
 (a)F∨(F∧G)≡F
 (b)F∧(F∨G)≡F
+```
